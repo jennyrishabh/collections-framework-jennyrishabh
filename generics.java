@@ -4,7 +4,7 @@
 package collectionframework;
 
 /*
- * :::root_Kali@Rjain$:::
+ * :::19csu247 (RJ)
  */
 import java.util.*;
 
